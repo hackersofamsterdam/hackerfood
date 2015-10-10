@@ -2,9 +2,7 @@
 title: HackerFood
 email: info@hackerfood.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  We write about food for hackathons.
 baseurl: "/hackerfood" # the subpath of your site, e.g. /blog/
 url: "http://hackersofamsterdam.github.io" # the base hostname & protocol for your site
 twitter_username: hackersofamsterdam
@@ -27,12 +25,10 @@ theme:
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <p>Hackathons ain't no fun without food. That's what we thing, and that's why we blog about the best food for hackathons.</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+    This is a blog used to show the audience what our advertising service can do.
 
   # Icons
   rss: false
@@ -52,7 +48,7 @@ theme:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter:
+  twitter: "amsterdamhacker"
   wordpress:
   youtube:
 
@@ -71,7 +67,7 @@ theme:
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
-  google_fonts: "Source+Sans+Pro:400,700,700italic,400italic"
+  google_fonts: "Lato:400,700,700italic,400italic"
 
   # Post navigation
   post_navigation: false
